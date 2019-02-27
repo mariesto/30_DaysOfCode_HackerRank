@@ -1,3 +1,5 @@
+package Day_19;
+
 import java.util.Scanner;
 
 interface AdvancedArithmetic{
